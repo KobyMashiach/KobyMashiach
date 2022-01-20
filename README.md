@@ -16,8 +16,7 @@
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=Cpp&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-html-informational?style=flat&logo=html&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Assembly-informational?style=flat&logo=assembly&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-html-informational?style=flat&logo=html&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Assembly-informational?style=flat&logo=Assembly&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-flutter-informational?style=flat&logo=flutter&logoColor=white&color=6aa6f8)
 
 
