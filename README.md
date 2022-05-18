@@ -4,7 +4,7 @@
 [![](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 
-#### 👨‍🎓 *Hello! I'm Koby, a Computer Software student (3rd year)*
+#### 👨‍🎓 *Hello! I'm Koby, a practical software engineer student (3rd year)*
 ##### 💬 Contact me:
 <a href="https://www.linkedin.com/in/koby-mashiach/" target="git"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="git"></a> <a href="mailto:koby9779@gmail.com" target="git"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="git"></a>
 
